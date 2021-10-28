@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "462073562313",
+    "firebase_url": "https://talkpeople-d2ccb-default-rtdb.firebaseio.com",
+    "project_id": "talkpeople-d2ccb",
+    "storage_bucket": "talkpeople-d2ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462073562313:android:9e0db85e33f4b8d737f918",
+        "android_client_info": {
+          "package_name": "com.example.talkpeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462073562313-j6n9dmklponrv9nmhc8g49ucdp3lfieb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuXoQ-psqq8mevJR1sSVpNF4ZE8vXwEIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462073562313-j6n9dmklponrv9nmhc8g49ucdp3lfieb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
